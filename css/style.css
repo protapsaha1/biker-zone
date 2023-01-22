@@ -5,3 +5,10 @@
     width: 70%;
     text-align: center;
 }
+.img-size{
+    justify-content: center;
+    /* padding: 50px; */
+    width: 400px;
+    height: 350px;
+    
+}
